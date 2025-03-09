@@ -21,5 +21,5 @@ pip install numpy pandas scipy matplotlib
 ```
 
 ##  Пример проверки
-**Обнаружение выбросов**
+Обнаружение выбросов
 ![image](https://github.com/user-attachments/assets/41fce56d-d4b1-4fb1-99b0-b312e808e190)
